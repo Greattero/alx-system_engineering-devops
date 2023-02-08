@@ -1,4 +1,4 @@
 #!/bin/bash
 ls -l
-id
+id -u
 ls -a
